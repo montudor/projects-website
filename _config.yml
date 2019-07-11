@@ -28,19 +28,19 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
+  facebook: montudor
   # hackerrank: your_username
-  # instagram: your_username
+  instagram: montudor
   # keybase: your_username
   # linkedin: your_username
   # mastodon: your_username
   # medium: your_username
-  # stackoverflow: your_user_id
-  # telegram: your_username
-  # twitter: your_username
+  stackoverflow: 8374992
+  telegram: montudor
+  twitter: montudor
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
