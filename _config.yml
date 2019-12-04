@@ -48,23 +48,23 @@ social_media:
 
 skills:
   - name: Django
-    web_url: https://github.com/topics/django
+    web_url: https://github.com/montudor?tab=repositories&q=django&type=&language=python
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png
 
   - name: Python
-    web_url: https://github.com/topics/python
+    web_url: https://github.com/montudor?tab=repositories&q=&type=&language=python
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
 
-  - name: Electron
-    web_url: https://github.com/topics/electron
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png
+  - name: Docker
+    web_url: https://github.com/montudor?tab=repositories&q=&type=&language=dockerfile
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png
 
   - name: HTML
-    web_url: https://github.com/topics/html
+    web_url: https://github.com/montudor?tab=repositories&q=&type=&language=html
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png
   
   - name: CSS
-    web_url: https://github.com/topics/css
+    web_url: https://github.com/montudor?tab=repositories&q=&type=&language=html
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
   - name: Angular
